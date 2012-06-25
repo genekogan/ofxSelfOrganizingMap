@@ -64,4 +64,4 @@ Using a high learning rate may cause the map to converge on less optimal results
 ![http://www.culturehacking.fm/2011/03/the-color-of-words-or-tidy-photography-pt-2/](http://www.culturehacking.fm/home/wp-content/uploads/2011/03/tidy_photo2.jpg)
 
 ### Countries clustered via UN poverty statistics (via [AI-junkie](http://ai-junkie.com/))
-![http://www.ai-junkie.com/ann/som/images/povertymap.jpg](http://www.ai-junkie.com/ann/som/som4.html)
+![http://www.ai-junkie.com/ann/som/images/povertymap.jpg](http://www.ai-junkie.com/ann/som/images/povertymap.jpg)
