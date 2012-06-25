@@ -28,11 +28,11 @@ Before using the SOM, you **must** tell it the size of the input feature vectors
 	double maxInstance[5] = { 255, 255, 255, 1, 1 };
 	som.setFeaturesRange(5, minInstance, maxInstance);
 	
-Finally, call `code(setup())` to allocate space for the SOM. Don't forget to do this! Calling it again returns the SOM to the same initial state and can be called as many times as you want.
+Finally, call `setup()` to allocate space for the SOM. Don't forget to do this! Calling it again returns the SOM to the same initial state and can be called as many times as you want.
 
 	som.setup();
 	
-To train the SOM, you must give it as many sample feature vectors as specified by the `code(numInstances)` parameter. Generally, you should train the SOM by randomly sampling from the feature space. The SOM will ignore instances sent to it past the first `code(numIterations)`.
+To train the SOM, you must give it as many sample feature vectors as specified by the `numInstances` parameter. Generally, you should train the SOM by randomly sampling from the feature space. The SOM will ignore instances sent to it past the first `numIterations`.
 
 	// do this som.numIterations times!
 	double instance[5] = { 127, 50, 200, 0.3, 0.9 };	// random sample from your training set
