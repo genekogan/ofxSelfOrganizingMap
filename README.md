@@ -61,7 +61,7 @@ Using a high learning rate may cause the map to converge on less optimal results
 
 ### The colors of the seasons, visualized using an SOM over google image search colors
 
-![http://www.culturehacking.fm/2011/03/the-color-of-words-or-tidy-photography-pt-2/](http://www.culturehacking.fm/home/wp-content/uploads/2011/03/tidy_photo2.jpg)
+![http://www.genekogan.com/experiments/color-of-words.html](http://www.genekogan.com/images/colors-of-words/seasons.jpg)
 
 ### Countries clustered via UN poverty statistics (via [AI-junkie](http://ai-junkie.com/))
 ![http://www.ai-junkie.com/ann/som/images/povertymap.jpg](http://www.ai-junkie.com/ann/som/images/povertymap.jpg)
