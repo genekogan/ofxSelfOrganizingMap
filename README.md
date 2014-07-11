@@ -7,7 +7,7 @@ For more information about SOMs, see:
 * [http://www.ai-junkie.com/ann/som/som1.html](http://www.ai-junkie.com/ann/som/som1.html)
 
 An example application: Mining different words/phrases with Google Images and visualizing the color distributions via SOM.
-* [http://www.culturehacking.fm/2011/03/the-color-of-words-or-tidy-photography-pt-2/](http://www.culturehacking.fm/2011/03/the-color-of-words-or-tidy-photography-pt-2/)
+* [http://genekogan.com/works/color-of-words.html](http://genekogan.com/works/color-of-words.html)
 
 
 ## Usage
@@ -64,4 +64,4 @@ Using a high learning rate may cause the map to converge on less optimal results
 ![http://www.genekogan.com/experiments/color-of-words.html](http://www.genekogan.com/images/colors-of-words/seasons.jpg)
 
 ### Countries clustered via UN poverty statistics (via [AI-junkie](http://ai-junkie.com/))
-![http://www.ai-junkie.com/ann/som/images/povertymap.jpg](http://www.ai-junkie.com/ann/som/images/povertymap.jpg)
+w
