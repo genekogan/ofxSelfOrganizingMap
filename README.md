@@ -1,4 +1,4 @@
-# ofxSelfOrganizingMap 
+# ofxSelfOrganizingMap  
 
 ofxSelfOrganizingMap an addon for [openFrameworks](http://openframeworks.cc/) which implements a self-organizing map (SOM) or Kohonen map, an [unsupervised machine learning](http://en.wikipedia.org/wiki/Unsupervised_learning) algorithm for mapping high-dimensional data onto a low-dimensional feature space. SOMs have many applications in data clustering, compression, and pattern recognition. 
 

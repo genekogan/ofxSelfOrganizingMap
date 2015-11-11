@@ -48,7 +48,7 @@ void testApp::update() {
     
     // randomly sample a color from the source image and update map
     ofColor samp = sourceImg.getColor( ofRandom(sourceImg.getWidth()), ofRandom(sourceImg.getHeight()));
-    double instance[3] = { samp.r, samp.g, samp.b };
+    double instance[3] = { static_cast<double>(samp.r), static_cast<double>(samp.g), static_cast<double>(samp.b) };
     som.updateMap(instance);
 
     // At any time, the map's value vector at a given point can be accessed

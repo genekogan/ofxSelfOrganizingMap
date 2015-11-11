@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6F2FF18-F696-4B9B-9C4F-7EC734FD9471</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example-RGBimage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1ACD9576A61F2B707BD0FBE307531E445F127D99</key>
+		<string>https://github.com/genekogan/ofxSelfOrganizingMap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example-RGBimage/example-RGBimage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1ACD9576A61F2B707BD0FBE307531E445F127D99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/genekogan/ofxSelfOrganizingMap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1ACD9576A61F2B707BD0FBE307531E445F127D99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1ACD9576A61F2B707BD0FBE307531E445F127D99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxSelfOrganizingMap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
